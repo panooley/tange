@@ -1,6 +1,5 @@
 # Tange
-Simple todo app in the command line
-Currently only supports Linux
+Simple todo app in the command line<br>Currently only supports Linux
 
 ## Usage
 ```
